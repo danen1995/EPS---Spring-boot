@@ -36,6 +36,7 @@ import com.example.demo.repository.StavkaRacunaRepository;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+@CrossOrigin
 @RestController
 public class Controller {
 
